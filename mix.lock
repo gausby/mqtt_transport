@@ -1,0 +1,2 @@
+%{"gen_mqtt": {:hex, :gen_mqtt, "0.2.1", "941bfa18de5ae4e3bf922f3a5a371e4e6fb9afacb12ae964f2801d8af0587b38", [:mix], []},
+  "vmq_commons": {:git, "https://github.com/erlio/vmq_commons.git", "610a83184bf36652e2c72225158301a9c9478c03", []}}

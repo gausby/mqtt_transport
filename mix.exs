@@ -27,6 +27,7 @@ defmodule MqttTransport.Mixfile do
   #
   # Type "mix help deps" for more examples and options
   defp deps do
-    []
+    [{:vmq_commons, github: "erlio/vmq_commons", manager: :rebar3},
+     {:gen_mqtt, "~> 0.2.0"}]
   end
 end
